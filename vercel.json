@@ -3,7 +3,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "*py", "use": "@vercel/json"
+            "src": "*py", "use": "@vercel/python"
         }
     ],
     "routes": [
