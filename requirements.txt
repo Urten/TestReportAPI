@@ -1,4 +1,4 @@
 flask
 docxtpl
-mega
+mega.py
 python-dotenv
